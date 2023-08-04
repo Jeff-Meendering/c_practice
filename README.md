@@ -1,9 +1,9 @@
-# c_practice
+# C_Practice
 
-Welcome to the c_practice repository. This project is a curated collection of standalone C programming solutions to a variety of problems, primarily focused on strengthening my foundational knowledge in C programming. Here, you will find solutions to 50 different problems that were carefully selected from various online sources to ensure a comprehensive coverage of basic to intermediate C programming concepts.
+Welcome to the C_Practice. This collection is comprised of individual C programming solutions that are aimed at both expanding and strengthening my proficiency in the C language. Here, you'll find solutions to 50 varied problems that have been carefully chosen from numerous online resources to ensure a well-rounded understanding of basic to intermediate C programming concepts.
 
-Please note that this repository only contains the solutions to the problems, and not the problems themselves. You might need to refer to the original problem sources to understand the context of each solution.
+Please note that every solution within this repository comes with its corresponding problem statement, which is commented out at the top of each C file. This way, you can understand the context of the solution directly within the file itself.
 
-## Project Structure
+# Repository Structure
 
-This repository contains multiple standalone C files, each named according to the problem it solves. Each C file represents a solution to a unique problem. There are no interdependencies among these files, and they can be run individually.
+This repository is organized into numerous standalone C files, each named in accordance with the problem it resolves. Each C file serves as a solution to a unique problem. These files are independent of one another and can be run individually, providing a flexible and modular learning resource.

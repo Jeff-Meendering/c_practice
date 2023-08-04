@@ -1,3 +1,7 @@
+/*
+Create a function that takes a number as an argument, add one to the number, and return the result.
+*/
+
 #include <stdio.h>
 
 int addition(int a) {

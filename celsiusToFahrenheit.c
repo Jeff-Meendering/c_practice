@@ -1,3 +1,7 @@
+/*
+Write a program that can convert celcius to fahrenheit.
+*/
+
 #include <stdio.h>
 
 double converter(double celcius) {

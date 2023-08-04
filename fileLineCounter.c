@@ -1,3 +1,7 @@
+/*
+Write a program that takes a file as an argument and counts the total number of lines.
+*/
+
 #include <stdio.h>
 
 int main() {
